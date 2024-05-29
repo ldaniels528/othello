@@ -105,7 +105,7 @@ class AIProcessor {
     }
 
     /**
-     * Retrieves all of the Capture Paths for the given cell
+     * Retrieves all Capture Paths for the given cell
      * @param cell the given {@link OthelloCell cell}
      * @return the {@link CellCapturePath Capture Paths}
      */

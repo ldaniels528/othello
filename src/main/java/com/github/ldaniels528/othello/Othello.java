@@ -52,9 +52,8 @@ public class Othello extends JFrame implements KeyListener, MouseListener, Mouse
      * @param args the given command line arguments
      */
     public static void main(final String[] args) {
-        Othello game = null;
+        final Othello game = new Othello();
         try {
-            game = new Othello();
             game.init();
             game.execute();
         } catch (final Throwable cause) {
