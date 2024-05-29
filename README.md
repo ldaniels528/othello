@@ -31,3 +31,4 @@ Currently this demo is composed of four mini-games; including popular games like
  $ mvn package
  $ java -jar ./target/othello-0.48-jar-with-dependencies.jar
 ```
+![Screenshot](https://github.com/ldaniels528/othello/blob/main/Othello.png)
